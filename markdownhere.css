@@ -112,12 +112,12 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 24px !important;
-  border-bottom: 1px solid #ddd !important;
+ /* border-bottom: 1px solid #ddd !important; */
 }
 
 h2 {
   font-size: 20px !important;
-  border-bottom: 1px solid #eee !important;
+ /* border-bottom: 1px solid #eee !important; */
 }
 
 h3 {
