@@ -145,6 +145,11 @@ tbody {
   border: 0;
 }
 
+table th {
+    white-space: nowrap; /*表头内容强制在一行显示*/
+}
+
+
 table tr {
   border: 0;
   border-top: 1px solid #CCC;
@@ -170,3 +175,11 @@ table tr th {
   border: 1px solid #009688;
   background-color: #009688;
 }
+
+img{  
+    margin-left: auto; 
+    margin-right:auto; 
+    display:block;
+    max-width: 100%;  
+    max-height: 100%;     
+}  
