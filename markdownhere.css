@@ -9,6 +9,11 @@ pre, code {
   font-size: 14px;
   font-family: Roboto, 'Courier New', Consolas, Inconsolata, Courier, monospace;
   margin: auto 5px;
+  padding: 0.2em 0.4em;
+    margin: 0;
+    font-size: 85%;
+    background-color: rgba(27,31,35,0.05);
+    border-radius: 3px;
 }
 
 code {
@@ -47,6 +52,7 @@ hr {
 p {
   margin: 1.5em 5px !important;
 }
+
 
 table, pre, dl, blockquote, q, ul, ol {
   margin: 10px 5px;
